@@ -6,5 +6,6 @@
   "xylo": {
     "bb2": "xylo/xylo_bb2_mancini.ogg",
     "bb3": "xylo/xylo_bb3_mancini.ogg"
-  }
+  },
+  "pluck": { "e4": "pluck/pluck_e4_ashikawa.ogg" }
 }

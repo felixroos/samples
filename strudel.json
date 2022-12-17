@@ -2,5 +2,9 @@
   "_base": "https://raw.githubusercontent.com/felixroos/samples/main/",
   "rhodes": { "c4": "rhodes/rhodes_c4_sainttropez.ogg" },
   "rhodes2x": { "c5": "rhodes/rhodes_c5_sainttropez.ogg" },
-  "ebass": { "f2": "ebass/ebass_f2_puthli.ogg" }
+  "ebass": { "f2": "ebass/ebass_f2_puthli.ogg" },
+  "xylo": {
+    "bb2": "xylo/xylo_bb2_mancini.ogg",
+    "bb3": "xylo/xylo_bb3_mancini.ogg"
+  }
 }

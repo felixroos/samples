@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/felixroos/samples/main/",
-  "rhodes": { "c4": "rhodes/rhodes_c4_sainttropez.ogg" }
+  "rhodes": { "c4": "rhodes/rhodes_c4_sainttropez.ogg" },
+  "rhodes2x": { "c5": "rhodes/rhodes_c5_sainttropez.ogg" }
 }

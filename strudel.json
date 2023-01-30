@@ -5,6 +5,7 @@
   "president_hh": ["president/president_hh.mp3"],
   "president_snap": ["president/president_snap.mp3"],
   "president_oh": ["president/president_oh.mp3"],
+  "beautybeast": ["beautybeast/beautybeast.wav"],
   "rhodes": { "c4": "rhodes/rhodes_c4_sainttropez.ogg" },
   "rhodes2x": { "c5": "rhodes/rhodes_c5_sainttropez.ogg" },
   "ebass": { "f2": "ebass/ebass_f2_puthli.ogg" },

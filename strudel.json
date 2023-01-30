@@ -14,6 +14,23 @@
   },
   "kalimba": { "c5": "kalimba/kalimba-c5.mp3" },
   "pluck": { "e4": "pluck/pluck_e4_ashikawa.ogg" },
+  "rene": [
+    "rene/01rene.wav",
+    "rene/02rene.wav",
+    "rene/03rene.wav",
+    "rene/04rene.wav",
+    "rene/05rene.wav",
+    "rene/06rene.wav",
+    "rene/07rene.wav",
+    "rene/08rene.wav",
+    "rene/09rene.wav",
+    "rene/10rene.wav",
+    "rene/11rene.wav",
+    "rene/12rene.wav",
+    "rene/13rene.wav",
+    "rene/14rene.wav",
+    "rene/15rene.wav"
+  ],
   "jazzbass": {
     "_base": "https://raw.githubusercontent.com/felixroos/samples/main/jazzbass/moog_",
     "c1": "c2.mp3",
@@ -52,22 +69,5 @@
   "vibtail": {
     "_base": "https://raw.githubusercontent.com/felixroos/samples/main/vocals/",
     "db3": "vibtail.mp3"
-  },
-  "rene": [
-    "rene/01rene.wav",
-    "rene/02rene.wav",
-    "rene/03rene.wav",
-    "rene/04rene.wav",
-    "rene/05rene.wav",
-    "rene/06rene.wav",
-    "rene/07rene.wav",
-    "rene/08rene.wav",
-    "rene/09rene.wav",
-    "rene/10rene.wav",
-    "rene/11rene.wav",
-    "rene/12rene.wav",
-    "rene/13rene.wav",
-    "rene/14rene.wav",
-    "rene/15rene.wav"
-  ]
+  }
 }
